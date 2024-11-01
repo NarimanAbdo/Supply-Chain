@@ -1,30 +1,42 @@
 ![image](https://github.com/user-attachments/assets/b843ca7b-f194-4637-917d-6612a8ed01bb)
-# Business Task:
-1. Analyzing shipment performance across different regions and shipment modes.
-2. What is the average order fulfillment time, and how does it impact overall warehouse performance?
-3. Understanding the impact of seasonality on sales and profitability is important to better prepare for demand fluctuations.
-# Insights:
-* Departments need more time for order fulfillment, with completion times ranging from 4 to 7 days, which impacts delivery timelines.
-* The company lost 2,410 orders across all shipment types, resulting in $160,000 in lost sales, including $42,000 from First Class and $64,000 from Second Class.
+
+
+# Business Task
+
 ### Shipment Delays
- * First Class: 83% of orders are delayed (3-4 days average).
- * Same Day: 18% of orders are delayed (1-2 days average).
- * Second Class: 51% of orders are delayed (3-4 days average).
- * Standard Class: 25% of orders are delayed (2-3 days average).
-# Recommendations: 
-* Standardize shipment modes for specific orders to improve consistency in delivery times.
-* Explore partnerships with reliable carriers to ensure quicker and more consistent shipping options.
-* Streamline internal processes to reduce order processing times, such as implementing better inventory management systems.
-* Consider automating parts of the fulfillment process to reduce manual errors and speed up processing.
-* Continuously monitor fulfillment performance metrics and gather customer feedback to adapt strategies.
-* Review and analyze shipping data to identify patterns and make data-driven adjustments.
-* France and Germany are both our biggest sales and profit-generating countries. So, consider building a new warehouse in Europe to minimize the delays and increase sales.
-* Improve communication with customers regarding expected delivery times and any potential delays.
-* Provide real-time tracking updates to enhance customer confidence in the delivery process.
+- **Key Drivers**: What are the key drivers of shipment delays in different markets, and how can they be minimized?
+- **Departments Affected**: Which departments experience the highest delay, and are there patterns associated with specific months or shipment modes?
 
+### Order Fulfillment
+- **Fulfillment Delays**: Why do some departments (e.g., Footwear, Technology) have higher fulfillment delays?
+- **Delay Causes**: Are these delays caused by inventory shortages, warehouse inefficiencies, or other factors?
 
+### Market Performance
+- **Top Markets**: Which market contributes the most to net sales and profit?
+- **Improvement for Underperformers**: How can underperforming regions (e.g., Africa and North America) improve their market share?
 
+### Profitability by Department
+- **High Profit in Fan Shop**: Why does the Fan Shop department generate the highest profit?
+- **Product Contribution**: Are there specific products within this department that significantly contribute to its profitability?
 
+### Inventory Turnover
+- **High Turnover Drivers**: What factors lead to higher turnover for specific products like Web Cameras and Yakima Hitch Mounts?
+- **Optimization for Low Turnover**: How can this insight optimize inventory management for lower turnover items?
+
+### Cost and Efficiency
+- **Cost-Effective Shipment Modes**: Which shipment modes are the most cost-effective?
+- **Reducing Same-Day Delays**: How can the same-day shipment delays be reduced, and does it impact customer satisfaction significantly?
+
+---
+
+## Recommendations
+
+1. **Optimize Shipment Modes**: Focus on reducing delays in Standard and Second Class shipments by evaluating the logistics providers and improving lead times.
+2. **Enhance Inventory Management**: For products with low turnover, consider strategies like promotional discounts or reducing restock levels to decrease holding costs.
+3. **Improve Regional Strategies**: Tailor strategies for underperforming markets by addressing specific customer preferences and competitive landscape to increase market share.
+4. **Invest in High-Profit Departments**: Continue investing in the Fan Shop and Apparel departments, as they have strong profit margins. Consider expanding popular product lines to capitalize on demand.
+5. **Streamline Warehouse Operations**: Evaluate warehouse processes to reduce fulfillment delays, especially for departments with significant delays, such as Footwear and Technology.
+6. **Monitor Monthly Performance**: Use monthly profit and sales data to identify seasonal trends and adjust supply chain strategies accordingly to capitalize on high-demand periods.
 
 
 
