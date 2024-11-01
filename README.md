@@ -1,5 +1,5 @@
 # Supply-Chain
-## Business Task![image](https://github.com/user-attachments/assets/5a9ef71b-8634-40d4-8cf3-3390b6e91c63)
+![image](https://github.com/user-attachments/assets/5a9ef71b-8634-40d4-8cf3-3390b6e91c63)
   Analyzing shipment performance across different regions and shipment modes.
   What is the average fulfillment time for orders, and how does it impact overall warehouse performance?
   Understanding the impact of seasonality on sales and profitability to better prepare for demand fluctuations.
