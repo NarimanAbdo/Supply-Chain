@@ -15,13 +15,13 @@ Departments need more time for order fulfillment, with completion times ranging 
 The company lost 2,410 orders across all shipment types, resulting in $160,000 in lost sales, including $42,000 from First Class and $64,000 from Second Class.
 # Recommendations: 
 ## Optimize Shipment Modes
-  ** Standardize shipment modes for specific orders to improve consistency in delivery times.
-  ** Explore partnerships with reliable carriers to ensure quicker and more consistent shipping options.
+  *. Standardize shipment modes for specific orders to improve consistency in delivery times.
+  *. Explore partnerships with reliable carriers to ensure quicker and more consistent shipping options.
 ## Enhance Fulfillment Processes:
-  ** Streamline internal processes to reduce order processing times, such as implementing better inventory management systems.
-  ** Consider automating parts of the fulfillment process to reduce manual errors and speed up processing.
+  *. Streamline internal processes to reduce order processing times, such as implementing better inventory management systems.
+  *. Consider automating parts of the fulfillment process to reduce manual errors and speed up processing.
 ## Monitor and Adapt
-** Continuously monitor fulfillment performance metrics and gather customer feedback to adapt strategies.
+*. Continuously monitor fulfillment performance metrics and gather customer feedback to adapt strategies.
 ** Regularly review and analyze shipping data to identify patterns and make data-driven adjustments.
 ## Warehouse construction
 ** France and Germany are both our biggest sales and profit-generating countries. So, consider building a new warehouse in Europe to minimize the delays and increase sales.
